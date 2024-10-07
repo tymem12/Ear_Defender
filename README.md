@@ -1,2 +1,2 @@
 # Ear_Defender
-Ear Defender
+Ear Defender model
